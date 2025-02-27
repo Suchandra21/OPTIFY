@@ -3,6 +3,7 @@
 ## Task1:
 The iris dataset includes three species: Setosa, Versicolor, and Virginica, which are distinguishable by their measurements.📊I was required to assume the measurements of iris flowers according to their species. 🌸 My task was to train a machine learning model 🤖that could learn from these measurements and classify the different iris species accurately. 📊
 🔍 **Innovative Steps I Followed:**
+
 **Data Preparation:** Ensured the dataset was clean and free of inconsistencies. 🧹
 **Exploratory Data Analysis:** Conducted detailed analysis and visualized the data to understand feature distributions and relationships. 📈
 **Model Training:** Trained a machine learning model using the dataset and the concept of KNN, implementing a train-test split strategy. 🤖
